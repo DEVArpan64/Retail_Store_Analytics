@@ -5,9 +5,6 @@ In this project, out team executed an End-To-End Data Engineering Project on Rea
 
 We used different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
-## Architecture 
-<img src="Architecture.jpg">
-
 ## Technology Used
 - Programming Language - Python
 - Amazon Web Service (AWS)
