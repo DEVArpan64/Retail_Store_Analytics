@@ -16,6 +16,8 @@ We used different technologies such as Python, Amazon Web Services (AWS), Apache
 6. Apache Kafka
 7. Tableau 
 
+![image](https://github.com/DEVArpan64/walmart_sparx/assets/94979779/e7379eb8-e59f-45e4-a1db-ac06c113252f)
+
 
 ## Dataset Used
 Here is the dataset used - https://www.kaggle.com/datasets/rutuspatel/walmart-dataset-retail
